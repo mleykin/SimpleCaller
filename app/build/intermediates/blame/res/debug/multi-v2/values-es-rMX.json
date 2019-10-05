@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Maxwork\\Educational activities\\Android\\Lectures\\2. Activities & Intents\\SimpleCaller\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-es-rMX\\values-es-rMX.xml",
+            "map": [
+                {
+                    "source": "C:\\Maxwork\\Educational activities\\Android\\Lectures\\2. Activities & Intents\\SimpleCaller\\app\\src\\main\\res\\values-es-rMX\\values.xml",
+                    "from": {
+                        "startLines": "3,4,2,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "127,178,57,217",
+                        "endColumns": "49,37,68,42",
+                        "endOffsets": "172,211,121,255"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,105,143,212",
+                        "endColumns": "49,37,68,42",
+                        "endOffsets": "100,138,207,250"
+                    }
+                }
+            ]
+        }
+    ]
+}
